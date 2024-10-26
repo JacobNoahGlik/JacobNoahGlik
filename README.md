@@ -1,16 +1,22 @@
 # 👋 Hello! I'm Jacob Glik
 #### a cybersecurity student and researcher
 
-## ⚡ Projects
+## ⚡ Tech Stack and Tools
 
-### 🔑 [MFA-Phishing-MQP-WPI / Hardware-FIDO2-Implementation-Demo](https://github.com/MFA-Phishing-MQP-WPI/Hardware-FIDO2-Implementation-Demo)  
-**Description:** A proof-of-concept to analyze vulnerabilities in FIDO2 authentication and demonstrate potential phishing + AITM attacks.
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
-### 🛡️ [SecureDrop](SecureDrop)  
-**Description:** End-to-end secure file transfer system, ensuring confidentiality with peer-to-peer encryption.
+## GitHub Stats
 
-### 🎓 [GradeAssistant_PoC](GradeAssistant_PoC)  
-**Description:** Automated grading assistant to streamline grading tasks and improve efficiency for TAs and professors.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacobNoahGlik&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobNoahGlik&layout=compact&theme=dark)
 
-### 🖥️ [KeyLogger](KeyLogger)  
-**Description:** A learning project in real-time monitoring and data analytics.
+## 🌐 Profiles
+### [linkedin](https://www.linkedin.com/in/jacob-glik-758b08208/)
+### [stackoverflow](https://stackoverflow.com/users/15986016/jacob-glik)
+
