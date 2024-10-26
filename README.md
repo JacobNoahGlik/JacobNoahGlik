@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Jacob Glik
-### a cybersecurity enthusiast passionate about cryptography and computer science. I enjoy tackling the cutting edge of MFA, cryptographic protocols, and innovative security solutions.
+#### a cybersecurity student and researcher
 
 ## ⚡ Projects
 
