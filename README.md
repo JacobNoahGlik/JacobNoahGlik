@@ -1,16 +1,16 @@
-## Hi there, I'm Jacob Glik 👋
+# 👋 Hello! I'm Jacob Glik
+### a cybersecurity enthusiast passionate about cryptography and computer science. I enjoy tackling the cutting edge of MFA, cryptographic protocols, and innovative security solutions.
 
-<!--
-**JacobNoahGlik/JacobNoahGlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Projects
 
-Here are some ideas to get you started:
+### 🔑 [MFA-Phishing-MQP-WPI / Hardware-FIDO2-Implementation-Demo](https://github.com/MFA-Phishing-MQP-WPI/Hardware-FIDO2-Implementation-Demo)  
+**Description:** A proof-of-concept to analyze vulnerabilities in FIDO2 authentication and demonstrate potential phishing + AITM attacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ [SecureDrop](SecureDrop)  
+**Description:** End-to-end secure file transfer system, ensuring confidentiality with peer-to-peer encryption.
+
+### 🎓 [GradeAssistant_PoC](GradeAssistant_PoC)  
+**Description:** Automated grading assistant to streamline grading tasks and improve efficiency for TAs and professors.
+
+### 🖥️ [KeyLogger](KeyLogger)  
+**Description:** A learning project in real-time monitoring and data analytics.
