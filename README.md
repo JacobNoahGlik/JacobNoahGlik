@@ -1,4 +1,4 @@
-# I'm Jacob Glik ![wave](https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif)
+# I'm Jacob Glik <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 ### A cybersecurity student and researcher passionate about cryptography, MFA, and programming.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -20,5 +20,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacobNoahGlik&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobNoahGlik&layout=compact&theme=dark)
 
-### [linkedin](https://www.linkedin.com/in/jacob-glik-758b08208/) - [stackoverflow](https://stackoverflow.com/users/15986016/jacob-glik)
+<a href="https://www.linkedin.com/in/jacob-glik-758b08208/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
