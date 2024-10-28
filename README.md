@@ -2,6 +2,8 @@
 ### A cybersecurity student and researcher passionate about cryptography, MFA, and programming.
 
 <a href="https://www.linkedin.com/in/jacob-glik-758b08208/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+<a href="https://stackoverflow.com/users/15986016"><img alt="Stack Overflow" title="Stack Overflow" src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
