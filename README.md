@@ -29,6 +29,7 @@
 ![Tor](https://img.shields.io/badge/-Tor-7D4698?logo=torproject&logoColor=white&style=flat)
 ![NMAP](https://img.shields.io/badge/-Nmap-4682B4?style=flat)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-0A0AFF?style=flat)
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-5A5A5A?style=flat)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacobNoahGlik&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobNoahGlik&layout=compact&theme=dark)
