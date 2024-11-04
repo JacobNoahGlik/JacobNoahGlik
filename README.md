@@ -1,5 +1,7 @@
 # Hi there ... I'm Jacob Glik <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
-### A cybersecurity student and researcher passionate about cryptography, MFA, and programming.
+#### A cybersecurity student and researcher passionate about cryptography, MFA, and programming.
+
+<br>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
