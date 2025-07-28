@@ -1,5 +1,5 @@
 # Hi there ... I'm Jacob Glik <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
-     
+
 #### A cybersecurity researcher passionate about cryptography, MFA, and programming.
  
 <br>
@@ -51,7 +51,7 @@
 ![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-5A5A5A?style=flat)
 ![YubiKey](https://img.shields.io/badge/-YubiKey-FFC20E?logo=yubico&logoColor=black&style=flat)
 
-![Jacob's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JacobNoahGlik&theme=darkhub&no-bg=true&no-frame=true&row=1)
+ <!-- ![Jacob's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JacobNoahGlik&theme=darkhub&no-bg=true&no-frame=true&row=1) -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacobNoahGlik&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobNoahGlik&layout=compact&theme=dark)
