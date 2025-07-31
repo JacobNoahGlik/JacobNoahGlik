@@ -50,6 +50,9 @@
 ![Metasploit](https://img.shields.io/badge/-Metasploit-0A0AFF?style=flat)
 ![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-5A5A5A?style=flat)
 ![YubiKey](https://img.shields.io/badge/-YubiKey-FFC20E?logo=yubico&logoColor=black&style=flat)
+![FIDO2](https://img.shields.io/badge/-FIDO2-0F7CDA?style=flat)
+![WebAuthn](https://img.shields.io/badge/-WebAuthn-2C9AB7?style=flat)
+![PKI](https://img.shields.io/badge/-PKI-4B8BBE?style=flat)
 
  <!-- ![Jacob's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JacobNoahGlik&theme=darkhub&no-bg=true&no-frame=true&row=1) -->
 
