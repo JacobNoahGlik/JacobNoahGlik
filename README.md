@@ -2,6 +2,7 @@
            
 #### A cybersecurity researcher passionate about cryptography, MFA, and programming.
 
+
 <br>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
